@@ -1,0 +1,11 @@
+{
+  "project": "term1nal",
+  "description": "Cyberpunk-themed terminal emulator with NetWatch Netrunner interface",
+  "language": "html/css/javascript",
+  "features": [
+    "Interactive terminal simulation",
+    "Cyberpunk UI aesthetic",
+    "Command processing system",
+    "File system simulation"
+  ]
+}
