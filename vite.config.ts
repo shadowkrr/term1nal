@@ -3,8 +3,8 @@ import react from '@vitejs/plugin-react'
 import { resolve } from 'path'
 
 export default defineConfig({
-  root: '.',
-  publicDir: 'public',
+  root: 'src',
+  publicDir: '../public',
   plugins: [
     react()
   ],
